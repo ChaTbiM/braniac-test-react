@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Amine Mohamed",
+        "specialty": "Chirugie Dentaire",
+        "hospitalName": "CHU Mustapha",
+        "workLocation": "Mascara",
+        "averageRating": 4.3
+    },
+    {
+        "id": 2,
+        "name": "Amine Mohamed",
+        "specialty": "Chirugie Dentaire",
+        "hospitalName": "CHU Mustapha",
+        "workLocation": "Mascara",
+        "averageRating": 4.3,
+        "numberOfReviews": 40000,
+        "skill_1": 70,
+        "skill_2": 25,
+        "skill_3": 30,
+        "skill_4": 90,
+        "skill_5": 10
+    },
+    {
+        "id": 3,
+        "name": "Amine Mohamed",
+        "specialty": "Chirugie Dentaire",
+        "hospitalName": "CHU Mustapha",
+        "workLocation": "Mascara",
+        "averageRating": 4.3,
+        "numberOfReviews": 40000,
+        "skill_1": 70,
+        "skill_2": 25,
+        "skill_3": 30,
+        "skill_4": 90,
+        "skill_5": 10
+    },
+    {
+        "id": 4,
+        "name": "Amine Mohamed",
+        "specialty": "Chirugie Dentaire",
+        "hospitalName": "CHU Mustapha",
+        "workLocation": "Mascara",
+        "averageRating": 4.3,
+        "numberOfReviews": 40000,
+        "skill_1": 70,
+        "skill_2": 25,
+        "skill_3": 30,
+        "skill_4": 90,
+        "skill_5": 10
+    },
+    {
+        "id": 5,
+        "name": "Amine Mohamed",
+        "specialty": "Chirugie Dentaire",
+        "hospitalName": "CHU Mustapha",
+        "workLocation": "Mascara",
+        "averageRating": 4.3,
+        "numberOfReviews": 40000,
+        "skill_1": 70,
+        "skill_2": 25,
+        "skill_3": 30,
+        "skill_4": 90,
+        "skill_5": 10
+    }
+]

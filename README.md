@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Test info :
+    Start Time:   Sat May 7 15:35:02 2022 +0100
+    used framework : Reactjs +18
+
+
+# Running the application guide
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
